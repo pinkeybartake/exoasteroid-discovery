@@ -1,0 +1,8 @@
+lightkurve
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+streamlit
+Pillow

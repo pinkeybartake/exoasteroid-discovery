@@ -1,0 +1,7 @@
+# Ignore large files
+exoasteroid_output/merged_dip_metadata.csv
+exoasteroid_output/discovery_scores_with_radius.csv
+exoasteroid_output/discovery_scores.csv
+exoasteroid_output/bright_dip_candidates.csv
+exoasteroid_output/discovery_scores_with_radius.csv
+exoasteroid_output/merged_dip_metadata.csv
